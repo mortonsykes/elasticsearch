@@ -42,4 +42,4 @@ Issue number: group name (no links to elasticsearch, just the number - sort by i
 * 23329: JAH
 * 23430: Honey Boo Boo Fan Club
 * 23435: The Best Engineers, The Best
-* 23436: Group 1
+* 23579: Group 1
